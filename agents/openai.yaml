@@ -1,0 +1,7 @@
+interface:
+  display_name: "Desktop Reminder Popup"
+  short_description: "Bilingual-friendly one-shot PySide6 desktop reminder popup skill for OpenClaw."
+  default_prompt: "Use $desktop-reminder-prototype to build or refine a one-shot PySide6 desktop reminder popup that OpenClaw invokes with CLI arguments."
+
+policy:
+  allow_implicit_invocation: true
